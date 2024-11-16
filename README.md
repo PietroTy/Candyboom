@@ -1,5 +1,5 @@
 # Project
- Tetris Game using Raylib in C.
+ Match-3 Game using Raylib in C.
 
 # Autor
  Pietro Turci (PietroTy).
